@@ -13,10 +13,10 @@ module.exports = {
     siteTitle: `Strange Potato`,
     siteTitleAlt: `Strange Potato: A Blog About Things`,
     siteHeadline: `Strange Potato: A Blog About Things`,
-    siteUrl: `https://minimal-blog.lekoarts.de`,
-    siteDescription: `Typography driven, feature-rich blogging theme with minimal aesthetics. Includes tags/categories support and extensive features for code blocks such as live preview, line numbers, and line highlighting.`,
+    siteUrl: `https://strangepotato.dev`,
+    siteDescription: `A Blog About Things`,
     siteImage: `/banner.jpg`,
-    author: `@lekoarts_de`,
+    author: `@sparky_005`,
   },
   trailingSlash: `never`,
   plugins: [
@@ -55,9 +55,9 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `minimal-blog - @lekoarts/gatsby-theme-minimal-blog`,
-        short_name: `minimal-blog`,
-        description: `Typography driven, feature-rich blogging theme with minimal aesthetics. Includes tags/categories support and extensive features for code blocks such as live preview, line numbers, and code highlighting.`,
+        name: `strange potato: a blog about things`,
+        short_name: `strange potato`,
+        description: `A Blog About Things`,
         start_url: `/`,
         background_color: `#fff`,
         // This will impact how browsers show your PWA/website
@@ -120,7 +120,7 @@ module.exports = {
   }
 }`,
             output: `rss.xml`,
-            title: `Minimal Blog - @lekoarts/gatsby-theme-minimal-blog`,
+            title: `Strange Potato`,
           },
         ],
       },
