@@ -4,7 +4,7 @@ export default {
   ...theme,
   section_hero: {
 //    display: 'none',
-    mb: [4, 5, 6],
+//    mb: [5, 6, 7],
 //    p: { fontSize: [1, 2, 3], mt: 2 }
   },
   section_bottom: {
