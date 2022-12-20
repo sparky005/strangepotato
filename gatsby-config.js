@@ -33,6 +33,10 @@ module.exports = {
             title: `About`,
             slug: `/about`,
           },
+          {
+            title: `RSS`,
+            slug: `/rss.xml`,
+          },
         ],
         externalLinks: [
           {
