@@ -133,5 +133,15 @@ module.exports = {
         openAnalyzer: false,
       },
     },
+    {
+      resolve: `gatsby-plugin-umami`,
+      options: {
+        websiteId: '0a31a105-6878-4850-8311-ae74e1b2d3f8',
+        srcUrl: 'https://umami-production-f77c.up.railway.app/umami.js',
+        includeInDevelopment: false,
+        autoTrack: true,
+        respectDoNotTrack: true
+      },
+    },
   ].filter(Boolean),
 }
