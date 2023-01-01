@@ -17,6 +17,7 @@
   },
   "dependencies": {
     "@lekoarts/gatsby-theme-minimal-blog": "^6.0.2",
+    "fastcomments-react": "^3.0.5",
     "gatsby": "^5.0.0",
     "gatsby-plugin-feed": "^5.0.0",
     "gatsby-plugin-manifest": "^5.0.0",
