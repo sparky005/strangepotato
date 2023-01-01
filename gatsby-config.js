@@ -47,6 +47,10 @@ module.exports = {
             name: `LinkedIn`,
             url: `https://www.linkedin.com/in/adil-sadik/`,
           },
+          {
+            name: `Email`,
+            url: `mailto:potato@strangepotato.com`,
+          },
         ],
       },
     },
