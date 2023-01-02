@@ -105,7 +105,8 @@ module.exports = {
           {
             serialize: ({ query: { site, allPost } }) =>
               allPost.nodes.map((post) => {
-                const url = site.siteMetadata.siteUrl + post.slug
+                const refInfo = `?utm_source=rss&utm_medium=blog&utm_campaign=rss-syndication`
+                const url = site.siteMetadata.siteUrl + post.slug + refInfo
                 const content = `<p>${post.excerpt}</p><div style="margin-top: 50px; font-style: italic;"><strong><a href="${url}">Click here to keep reading</a></strong></div><br /> <br />`
 
                 return {
