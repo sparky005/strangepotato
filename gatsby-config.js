@@ -48,8 +48,8 @@ module.exports = {
             url: `https://www.linkedin.com/in/adil-sadik/`,
           },
           {
-            name: `Email`,
-            url: `mailto:potato@strangepotato.com`,
+            name: `Newsletter`,
+            url: `http://eepurl.com/ihpvjb`,
           },
         ],
       },

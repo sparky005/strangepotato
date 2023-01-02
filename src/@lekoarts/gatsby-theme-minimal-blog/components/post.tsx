@@ -5,7 +5,7 @@ import { jsx, Heading } from "theme-ui"
 import Layout from "@lekoarts/gatsby-theme-minimal-blog/src/components/layout"
 import ItemTags from "@lekoarts/gatsby-theme-minimal-blog/src/components/item-tags"
 import Seo from "@lekoarts/gatsby-theme-minimal-blog/src/components/seo"
-import PostFooter from "@lekoarts/gatsby-theme-minimal-blog/src/components/post-footer"
+import PostFooter from "./post-footer"
 import Comments from "./comments"
 
 export type MBPostProps = {
