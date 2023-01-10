@@ -52,6 +52,7 @@ module.exports = {
             url: `http://eepurl.com/ihpvjb`,
           },
         ],
+        formatString: `MMMM D, YYYY`
       },
     },
     {
