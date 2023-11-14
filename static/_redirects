@@ -1,4 +1,4 @@
 /rss.xml https://strangepotato.mataroa.blog/rss/ 301!
 /about/ https://strangepotato.mataroa.blog/about/ 301!
-/blog/ https://strangepotato.mataroa.blog/ 301!
+/blog https://strangepotato.mataroa.blog/ 301!
 /* https://strangepotato.mataroa.blog/blog/:splat 301!
