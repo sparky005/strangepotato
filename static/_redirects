@@ -1,6 +1,5 @@
-/ https://strangepotato.bearblog.dev 301!
-/rss.xml https://strangepotato.bearblog.dev/feed/?type=rss 301!
-/about/ https://strangepotato.bearblog.dev/about/ 301!
-/contact/ https://strangepotato.bearblog.dev/contact/ 301!
-/blog https://strangepotato.bearblog.dev/blog/ 301!
-/* https://strangepotato.bearblog.dev/:splat 301!
+/ https://strangepotato.mataroa.blog 301!
+/rss.xml https://strangepotato.mataroa.blog/rss/ 301!
+/about/ https://strangepotato.mataroa.blog/about/ 301!
+/blog https://strangepotato.mataroa.blog/ 301!
+/* https://strangepotato.mataroa.blog/blog/:splat 301!
